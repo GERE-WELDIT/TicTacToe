@@ -1,7 +1,3 @@
-from tkinter.constants import *
-from tkinter import *
-
-
 def create_game_board(n):
     """creates a n rows and by n column size board"""
     game_board = []
